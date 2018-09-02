@@ -10,8 +10,18 @@
 		5123D451213BC4C300817CA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D450213BC4C300817CA8 /* AppDelegate.swift */; };
 		5123D453213BC4C300817CA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D452213BC4C300817CA8 /* ViewController.swift */; };
 		5123D456213BC4C300817CA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5123D454213BC4C300817CA8 /* Main.storyboard */; };
-		5123D458213BC4C500817CA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5123D457213BC4C500817CA8 /* Assets.xcassets */; };
 		5123D45B213BC4C500817CA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5123D459213BC4C500817CA8 /* LaunchScreen.storyboard */; };
+		5123D46A213BCE1700817CA8 /* nssl4731999-country-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D462213BCE1600817CA8 /* nssl4731999-country-wallpaper.jpg */; };
+		5123D46B213BCE1700817CA8 /* 292599.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D463213BCE1600817CA8 /* 292599.jpg */; };
+		5123D46C213BCE1700817CA8 /* nssl4171167-civilization-wallpapers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D464213BCE1700817CA8 /* nssl4171167-civilization-wallpapers.jpg */; };
+		5123D46D213BCE1700817CA8 /* nssl4816579-god-of-war-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D465213BCE1700817CA8 /* nssl4816579-god-of-war-wallpaper.jpg */; };
+		5123D46E213BCE1700817CA8 /* nssl30395.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D466213BCE1700817CA8 /* nssl30395.jpg */; };
+		5123D46F213BCE1700817CA8 /* nssl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D467213BCE1700817CA8 /* nssl.jpg */; };
+		5123D470213BCE1700817CA8 /* nssl3366d39c623643d768d82fe197d766c6_large.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D468213BCE1700817CA8 /* nssl3366d39c623643d768d82fe197d766c6_large.jpeg */; };
+		5123D471213BCE1700817CA8 /* nssl28328-fantasy_art.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5123D469213BCE1700817CA8 /* nssl28328-fantasy_art.jpg */; };
+		5123D475213BCEEB00817CA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5123D474213BCEEB00817CA8 /* Assets.xcassets */; };
+		5123D477213BD0F500817CA8 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D476213BD0F500817CA8 /* TableViewController.swift */; };
+		5123D479213BD48800817CA8 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D478213BD48800817CA8 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +29,19 @@
 		5123D450213BC4C300817CA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5123D452213BC4C300817CA8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5123D455213BC4C300817CA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5123D457213BC4C500817CA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5123D45A213BC4C500817CA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5123D45C213BC4C500817CA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5123D462213BCE1600817CA8 /* nssl4731999-country-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nssl4731999-country-wallpaper.jpg"; sourceTree = "<group>"; };
+		5123D463213BCE1600817CA8 /* 292599.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 292599.jpg; sourceTree = "<group>"; };
+		5123D464213BCE1700817CA8 /* nssl4171167-civilization-wallpapers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nssl4171167-civilization-wallpapers.jpg"; sourceTree = "<group>"; };
+		5123D465213BCE1700817CA8 /* nssl4816579-god-of-war-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nssl4816579-god-of-war-wallpaper.jpg"; sourceTree = "<group>"; };
+		5123D466213BCE1700817CA8 /* nssl30395.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl30395.jpg; sourceTree = "<group>"; };
+		5123D467213BCE1700817CA8 /* nssl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl.jpg; sourceTree = "<group>"; };
+		5123D468213BCE1700817CA8 /* nssl3366d39c623643d768d82fe197d766c6_large.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl3366d39c623643d768d82fe197d766c6_large.jpeg; sourceTree = "<group>"; };
+		5123D469213BCE1700817CA8 /* nssl28328-fantasy_art.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nssl28328-fantasy_art.jpg"; sourceTree = "<group>"; };
+		5123D474213BCEEB00817CA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5123D476213BD0F500817CA8 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		5123D478213BD48800817CA8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +77,18 @@
 				5123D450213BC4C300817CA8 /* AppDelegate.swift */,
 				5123D452213BC4C300817CA8 /* ViewController.swift */,
 				5123D454213BC4C300817CA8 /* Main.storyboard */,
-				5123D457213BC4C500817CA8 /* Assets.xcassets */,
+				5123D478213BD48800817CA8 /* DetailViewController.swift */,
+				5123D476213BD0F500817CA8 /* TableViewController.swift */,
 				5123D459213BC4C500817CA8 /* LaunchScreen.storyboard */,
+				5123D468213BCE1700817CA8 /* nssl3366d39c623643d768d82fe197d766c6_large.jpeg */,
+				5123D469213BCE1700817CA8 /* nssl28328-fantasy_art.jpg */,
+				5123D474213BCEEB00817CA8 /* Assets.xcassets */,
+				5123D466213BCE1700817CA8 /* nssl30395.jpg */,
+				5123D463213BCE1600817CA8 /* 292599.jpg */,
+				5123D467213BCE1700817CA8 /* nssl.jpg */,
+				5123D464213BCE1700817CA8 /* nssl4171167-civilization-wallpapers.jpg */,
+				5123D462213BCE1600817CA8 /* nssl4731999-country-wallpaper.jpg */,
+				5123D465213BCE1700817CA8 /* nssl4816579-god-of-war-wallpaper.jpg */,
 				5123D45C213BC4C500817CA8 /* Info.plist */,
 			);
 			path = "Listing images with FileManager Listing images with FileManager Listing images with FileManager";
@@ -122,9 +152,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5123D471213BCE1700817CA8 /* nssl28328-fantasy_art.jpg in Resources */,
+				5123D46B213BCE1700817CA8 /* 292599.jpg in Resources */,
+				5123D475213BCEEB00817CA8 /* Assets.xcassets in Resources */,
+				5123D46C213BCE1700817CA8 /* nssl4171167-civilization-wallpapers.jpg in Resources */,
+				5123D46A213BCE1700817CA8 /* nssl4731999-country-wallpaper.jpg in Resources */,
 				5123D45B213BC4C500817CA8 /* LaunchScreen.storyboard in Resources */,
-				5123D458213BC4C500817CA8 /* Assets.xcassets in Resources */,
+				5123D46E213BCE1700817CA8 /* nssl30395.jpg in Resources */,
+				5123D46D213BCE1700817CA8 /* nssl4816579-god-of-war-wallpaper.jpg in Resources */,
+				5123D46F213BCE1700817CA8 /* nssl.jpg in Resources */,
 				5123D456213BC4C300817CA8 /* Main.storyboard in Resources */,
+				5123D470213BCE1700817CA8 /* nssl3366d39c623643d768d82fe197d766c6_large.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +174,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5123D453213BC4C300817CA8 /* ViewController.swift in Sources */,
+				5123D477213BD0F500817CA8 /* TableViewController.swift in Sources */,
 				5123D451213BC4C300817CA8 /* AppDelegate.swift in Sources */,
+				5123D479213BD48800817CA8 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
